@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: #242333;
+  background: url("pic.jpg");
+  background-size: cover;
   color: #fff;
   display: flex;
   flex-direction: column;
